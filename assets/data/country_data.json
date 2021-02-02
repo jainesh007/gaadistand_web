@@ -1,0 +1,1304 @@
+{
+  "country": [
+    {
+      "country_name": "India",
+      "country_code": "IN",
+      "country_dialing_code": "+91",
+      "country_image": "flag_india"
+    },
+    {
+      "country_name": "Afghanistan",
+      "country_code": "AF",
+      "country_dialing_code": "+93",
+      "country_image": "flag_afghanistan"
+    },
+    {
+      "country_name": "Albania",
+      "country_code": "AL",
+      "country_dialing_code": "+355",
+      "country_image": "flag_albania"
+    },
+    {
+      "country_name": "Algeria",
+      "country_code": "DZ",
+      "country_dialing_code": "+213",
+      "country_image": "flag_algeria"
+    },
+    {
+      "country_name": "American Samoa",
+      "country_code": "AS",
+      "country_dialing_code": "+1-684",
+      "country_image": "flag_american_samoa"
+    },
+    {
+      "country_name": "Andorra",
+      "country_code": "AD",
+      "country_dialing_code": "+376",
+      "country_image": "flag_andorra"
+    },
+    {
+      "country_name": "Angola",
+      "country_code": "AO",
+      "country_dialing_code": "+244",
+      "country_image": "flag_angola"
+    },
+    {
+      "country_name": "Anguilla",
+      "country_code": "AI",
+      "country_dialing_code": "+1264",
+      "country_image": "flag_anguilla"
+    },
+    {
+      "country_name": "Antarctica",
+      "country_code": "AQ",
+      "country_dialing_code": "+672",
+      "country_image": "flag_antarctica"
+    },
+    {
+      "country_name": "Antigua and Barbuda",
+      "country_code": "AG",
+      "country_dialing_code": "+1268",
+      "country_image": "flag_antigua_and_barbuda"
+    },
+    {
+      "country_name": "Argentina",
+      "country_code": "AR",
+      "country_dialing_code": "+54",
+      "country_image": "flag_argentina"
+    },
+    {
+      "country_name": "Armenia",
+      "country_code": "AM",
+      "country_dialing_code": "+374",
+      "country_image": "flag_armenia"
+    },
+    {
+      "country_name": "Aruba",
+      "country_code": "AW",
+      "country_dialing_code": "+297",
+      "country_image": "flag_aruba"
+    },
+    {
+      "country_name": "Australia",
+      "country_code": "AU",
+      "country_dialing_code": "+61",
+      "country_image": "flag_australia"
+    },
+    {
+      "country_name": "Austria",
+      "country_code": "AT",
+      "country_dialing_code": "+43",
+      "country_image": "flag_austria"
+    },
+    {
+      "country_name": "Azerbaijan",
+      "country_code": "AZ",
+      "country_dialing_code": "+994",
+      "country_image": "flag_azerbaijan"
+    },
+    {
+      "country_name": "Bahamas",
+      "country_code": "BS",
+      "country_dialing_code": "+1242",
+      "country_image": "flag_bahamas"
+    },
+    {
+      "country_name": "Bahrain",
+      "country_code": "BH",
+      "country_dialing_code": "+973",
+      "country_image": "flag_bahrain"
+    },
+    {
+      "country_name": "Bangladesh",
+      "country_code": "BD",
+      "country_dialing_code": "+880",
+      "country_image": "flag_bangladesh"
+    },
+    {
+      "country_name": "Barbados",
+      "country_code": "BB",
+      "country_dialing_code": "+1246",
+      "country_image": "flag_barbados"
+    },
+    {
+      "country_name": "Belarus",
+      "country_code": "BY",
+      "country_dialing_code": "+375",
+      "country_image": "flag_belarus"
+    },
+    {
+      "country_name": "Belgium",
+      "country_code": "BE",
+      "country_dialing_code": "+32",
+      "country_image": "flag_belgium"
+    },
+    {
+      "country_name": "Belize",
+      "country_code": "BZ",
+      "country_dialing_code": "+501",
+      "country_image": "flag_belgium"
+    },
+    {
+      "country_name": "Benin",
+      "country_code": "BJ",
+      "country_dialing_code": "+229",
+      "country_image": "flag_benin"
+    },
+    {
+      "country_name": "Bermuda",
+      "country_code": "bm",
+      "country_dialing_code": "+1441",
+      "country_image": "flag_bermuda"
+    },
+    {
+      "country_name": "Bhutan",
+      "country_code": "BT",
+      "country_dialing_code": "+975",
+      "country_image": "flag_bhutan"
+    },
+    {
+      "country_name": "Bolivia",
+      "country_code": "BO",
+      "country_dialing_code": "+591",
+      "country_image": "flag_bolivia"
+    },
+    {
+      "country_name": "Bosnia And Herzegovina",
+      "country_code": "BA",
+      "country_dialing_code": "+387",
+      "country_image": "flag_bosnia"
+    },
+    {
+      "country_name": "Botswana",
+      "country_code": "BW",
+      "country_dialing_code": "+267",
+      "country_image": "flag_botswana"
+    },
+    {
+      "country_name": "Brazil",
+      "country_code": "BV",
+      "country_dialing_code": "+55",
+      "country_image": "flag_brazil"
+    },
+    {
+      "country_name": "British Indian Ocean Territory",
+      "country_code": "IO",
+      "country_dialing_code": "+246",
+      "country_image": "flag_british_indian_ocean_territory"
+    },
+    {
+      "country_name": "British Virgin Islands",
+      "country_code": "VG",
+      "country_dialing_code": "+1284",
+      "country_image": "flag_british_virgin_islands"
+    },
+    {
+      "country_name": "Brunei Darussalam",
+      "country_code": "BN",
+      "country_dialing_code": "+673",
+      "country_image": "flag_brunei"
+    },
+    {
+      "country_name": "Bulgaria",
+      "country_code": "BG",
+      "country_dialing_code": "+359",
+      "country_image": "flag_bulgaria"
+    },
+    {
+      "country_name": "Burkina Faso",
+      "country_code": "BF",
+      "country_dialing_code": "+226",
+      "country_image": "flag_burkina_faso"
+    },
+    {
+      "country_name": "Burundi",
+      "country_code": "BI",
+      "country_dialing_code": "+257",
+      "country_image": "flag_burundi"
+    },
+    {
+      "country_name": "Cambodia",
+      "country_code": "KH",
+      "country_dialing_code": "+855",
+      "country_image": "flag_cambodia"
+    },
+    {
+      "country_name": "Cameroon",
+      "country_code": "CM",
+      "country_dialing_code": "+237",
+      "country_image": "flag_cameroon"
+    },
+    {
+      "country_name": "Canada",
+      "country_code": "CA",
+      "country_dialing_code": "+1",
+      "country_image": "flag_canada"
+    },
+    {
+      "country_name": "Cape Verde",
+      "country_code": "CV",
+      "country_dialing_code": "+238",
+      "country_image": "flag_cape_verde"
+    },
+    {
+      "country_name": "Cayman Islands",
+      "country_code": "KY",
+      "country_dialing_code": "+1345",
+      "country_image": "flag_cayman_islands"
+    },
+    {
+      "country_name": "Central African Republic",
+      "country_code": "CF",
+      "country_dialing_code": "+236",
+      "country_image": "flag_central_african_republic"
+    },
+    {
+      "country_name": "Chad",
+      "country_code": "TD",
+      "country_dialing_code": "+235",
+      "country_image": "flag_chad"
+    },
+    {
+      "country_name": "Chile",
+      "country_code": "CL",
+      "country_dialing_code": "+56",
+      "country_image": "flag_chile"
+    },
+    {
+      "country_name": "China",
+      "country_code": "CN",
+      "country_dialing_code": "+86",
+      "country_image": "flag_china"
+    },
+    {
+      "country_name": "Christmas Island",
+      "country_code": "CX",
+      "country_dialing_code": "+53",
+      "country_image": "flag_christmas_island"
+    },
+    {
+      "country_name": "Cocos (Keeling) Islands",
+      "country_code": "CC",
+      "country_dialing_code": "+61",
+      "country_image": "flag_cocos"
+    },
+    {
+      "country_name": "Colombia",
+      "country_code": "CO",
+      "country_dialing_code": "+57",
+      "country_image": "flag_colombia"
+    },
+    {
+      "country_name": "Comoros",
+      "country_code": "KM",
+      "country_dialing_code": "+269",
+      "country_image": "flag_comoros"
+    },
+    {
+      "country_name": "Cook Islands (Former Harvey Islands)",
+      "country_code": "CK",
+      "country_dialing_code": "+682",
+      "country_image": "flag_cook_islands"
+    },
+    {
+      "country_name": "Costa Rica",
+      "country_code": "CR",
+      "country_dialing_code": "+506",
+      "country_image": "flag_costa_rica"
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HR",
+      "country_dialing_code": "+385",
+      "country_image": "flag_cote_divoire"
+    },
+    {
+      "country_name": "Croatia",
+      "country_code": "HR",
+      "country_dialing_code": "+385",
+      "country_image": "flag_croatia"
+    },
+    {
+      "country_name": "Cyprus",
+      "country_code": "CY",
+      "country_dialing_code": "+357",
+      "country_image": "flag_cyprus"
+    },
+    {
+      "country_name": "Czech Republic",
+      "country_code": "CZ",
+      "country_dialing_code": "+420",
+      "country_image": "flag_czech_republic"
+    },
+    {
+      "country_name": "Denmark",
+      "country_code": "DK",
+      "country_dialing_code": "+45",
+      "country_image": "flag_denmark"
+    },
+    {
+      "country_name": "Djibouti",
+      "country_code": "DJ",
+      "country_dialing_code": "+253",
+      "country_image": "flag_djibouti"
+    },
+    {
+      "country_name": "Dominica",
+      "country_code": "DM",
+      "country_dialing_code": "+1767",
+      "country_image": "flag_dominica"
+    },
+    {
+      "country_name": "Dominican Republic",
+      "country_code": "DO",
+      "country_dialing_code": "+1-809 and +1829 ",
+      "country_image": "flag_dominican_republic"
+    },
+    {
+      "country_name": "Ecuador",
+      "country_code": "EC",
+      "country_dialing_code": "+593",
+      "country_image": "flag_ecuador"
+    },
+    {
+      "country_name": "Egypt",
+      "country_code": "EG",
+      "country_dialing_code": "+20",
+      "country_image": "flag_egypt"
+    },
+    {
+      "country_name": "El Salvador",
+      "country_code": "SV",
+      "country_dialing_code": "+503",
+      "country_image": "flag_el_salvador"
+    },
+    {
+      "country_name": "Equatorial Guinea",
+      "country_code": "GQ",
+      "country_dialing_code": "+240",
+      "country_image": "flag_equatorial_guinea"
+    },
+    {
+      "country_name": "Eritrea",
+      "country_code": "ER",
+      "country_dialing_code": "+291",
+      "country_image": "flag_eritrea"
+    },
+    {
+      "country_name": "Estonia",
+      "country_code": "EE",
+      "country_dialing_code": "+372",
+      "country_image": "flag_estonia"
+    },
+    {
+      "country_name": "Ethiopia",
+      "country_code": "ET",
+      "country_dialing_code": "+251",
+      "country_image": "flag_ethiopia"
+    },
+    {
+      "country_name": "Falkland Islands",
+      "country_code": "FK",
+      "country_dialing_code": "+500",
+      "country_image": "flag_falkland_islands"
+    },
+    {
+      "country_name": "Faroe Islands",
+      "country_code": "FO",
+      "country_dialing_code": "+298",
+      "country_image": "flag_faroe_islands"
+    },
+    {
+      "country_name": "Fiji",
+      "country_code": "FJ",
+      "country_dialing_code": "+679",
+      "country_image": "flag_fiji"
+    },
+    {
+      "country_name": "Finland",
+      "country_code": "FI",
+      "country_dialing_code": "+358",
+      "country_image": "flag_finland"
+    },
+    {
+      "country_name": "France",
+      "country_code": "FR",
+      "country_dialing_code": "+33",
+      "country_image": "flag_france"
+    },
+    {
+      "country_name": "French Polynesia",
+      "country_code": "PF",
+      "country_dialing_code": "+689",
+      "country_image": "flag_french_polynesia"
+    },
+
+    {
+      "country_name": "Gabon",
+      "country_code": "GA",
+      "country_dialing_code": "+241",
+      "country_image": "flag_gabon"
+    },
+    {
+      "country_name": "Gambia",
+      "country_code": "GM",
+      "country_dialing_code": "+220",
+      "country_image": "flag_gambia"
+    },
+    {
+      "country_name": "Georgia",
+      "country_code": "GE",
+      "country_dialing_code": "+995",
+      "country_image": "flag_georgia"
+    },
+    {
+      "country_name": "Germany",
+      "country_code": "DE",
+      "country_dialing_code": "+49",
+      "country_image": "flag_germany"
+    },
+    {
+      "country_name": "Ghana",
+      "country_code": "GH",
+      "country_dialing_code": "+233",
+      "country_image": "flag_ghana"
+    },
+    {
+      "country_name": "Gibraltar",
+      "country_code": "GI",
+      "country_dialing_code": "+350",
+      "country_image": "flag_gibraltar"
+    },
+    {
+      "country_name": "Greece",
+      "country_code": "GR",
+      "country_dialing_code": "+30",
+      "country_image": "flag_greece"
+    },
+    {
+      "country_name": "Greenland",
+      "country_code": "GL",
+      "country_dialing_code": "+299",
+      "country_image": "flag_greenland"
+    },
+    {
+      "country_name": "Grenada",
+      "country_code": "GD",
+      "country_dialing_code": "+1-473",
+      "country_image": "flag_grenada"
+    },
+    {
+      "country_name": "Guadeloupe",
+      "country_code": "GP",
+      "country_dialing_code": "+590"
+    },
+    {
+      "country_name": "Guam",
+      "country_code": "GU",
+      "country_dialing_code": "+1-671",
+      "country_image": "flag_guadeloupe"
+    },
+    {
+      "country_name": "Guatemala",
+      "country_code": "GT",
+      "country_dialing_code": "+502",
+      "country_image": "flag_guam"
+    },
+    {
+      "country_name": "Guyana",
+      "country_code": "GY",
+      "country_dialing_code": "+592",
+      "country_image": "flag_guyana"
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HT",
+      "country_dialing_code": "+509",
+      "country_image": "flag_haiti"
+    },
+    {
+      "country_name": "Honduras",
+      "country_code": "HN",
+      "country_dialing_code": "+504",
+      "country_image": "flag_honduras"
+    },
+    {
+      "country_name": "Hong Kong",
+      "country_code": "HK",
+      "country_dialing_code": "+852",
+      "country_image": "flag_hong_kong"
+    },
+    {
+      "country_name": "Hungary",
+      "country_code": "HU",
+      "country_dialing_code": "+36",
+      "country_image": "flag_hungary"
+    },
+    {
+      "country_name": "Iceland",
+      "country_code": "IS",
+      "country_dialing_code": "+354",
+      "country_image": "flag_iceland"
+    },
+    {
+      "country_name": "Indonesia",
+      "country_code": "ID",
+      "country_dialing_code": "+62",
+      "country_image": "flag_indonesia"
+    },
+    {
+      "country_name": "Iran",
+      "country_code": "IR",
+      "country_dialing_code": "+98",
+      "country_image": "flag_iran"
+    },
+    {
+      "country_name": "Iraq",
+      "country_code": "IQ",
+      "country_dialing_code": "+964",
+      "country_image": "flag_iraq"
+    },
+    {
+      "country_name": "Ireland",
+      "country_code": "IE",
+      "country_dialing_code": "+353",
+      "country_image": "flag_ireland"
+    },
+    {
+      "country_name": "Israel",
+      "country_code": "IL",
+      "country_dialing_code": "+972",
+      "country_image": "flag_israel"
+    },
+    {
+      "country_name": "Italy",
+      "country_code": "IT",
+      "country_dialing_code": "+39",
+      "country_image": "flag_italy"
+    },
+    {
+      "country_name": "Jamaica",
+      "country_code": "JM",
+      "country_dialing_code": "+1-876",
+      "country_image": "flag_jamaica"
+    },
+    {
+      "country_name": "Japan",
+      "country_code": "JP",
+      "country_dialing_code": "+81",
+      "country_image": "flag_japan"
+    },
+    {
+      "country_name": "Jordan",
+      "country_code": "JO",
+      "country_dialing_code": "+962",
+      "country_image": "flag_jordan"
+    },
+    {
+      "country_name": "Kazakhstan",
+      "country_code": "KZ",
+      "country_dialing_code": "+7",
+      "country_image": "flag_kazakhstan"
+    },
+    {
+      "country_name": "Kenya",
+      "country_code": "KE",
+      "country_dialing_code": "+254",
+      "country_image": "flag_kenya"
+    },
+    {
+      "country_name": "Kiribati",
+      "country_code": "KI",
+      "country_dialing_code": "+686",
+      "country_image": "flag_kiribati"
+    },
+    {
+      "country_name": "Kuwait",
+      "country_code": "KW",
+      "country_dialing_code": "+965",
+      "country_image": "flag_kuwait"
+    },
+    {
+      "country_name": "Kyrgyzstan",
+      "country_code": "KG",
+      "country_dialing_code": "+996",
+      "country_image": "flag_kyrgyzstan"
+    },
+    {
+      "country_name": "Laos",
+      "country_code": "LA",
+      "country_dialing_code": "+856",
+      "country_image": "flag_laos"
+    },
+    {
+      "country_name": "Latvia",
+      "country_code": "LV",
+      "country_dialing_code": "+371",
+      "country_image": "flag_latvia"
+    },
+    {
+      "country_name": "Lebanon",
+      "country_code": "LB",
+      "country_dialing_code": "+961",
+      "country_image": "flag_lebanon"
+    },
+    {
+      "country_name": "Lesotho",
+      "country_code": "LS",
+      "country_dialing_code": "+266",
+      "country_image": "flag_lesotho"
+    },
+    {
+      "country_name": "Liberia",
+      "country_code": "LR",
+      "country_dialing_code": "+231",
+      "country_image": "flag_liberia"
+    },
+    {
+      "country_name": "Libya",
+      "country_code": "LY",
+      "country_dialing_code": "+218",
+      "country_image": "flag_libya"
+    },
+    {
+      "country_name": "Liechtenstein",
+      "country_code": "LI",
+      "country_dialing_code": "+423",
+      "country_image": "flag_liechtenstein"
+    },
+    {
+      "country_name": "Lithuania",
+      "country_code": "LT",
+      "country_dialing_code": "+370",
+      "country_image": "flag_lithuania"
+    },
+    {
+      "country_name": "Luxembourg",
+      "country_code": "LU",
+      "country_dialing_code": "+352",
+      "country_image": "flag_luxembourg"
+    },
+    {
+      "country_name": "Macau",
+      "country_code": "MO",
+      "country_dialing_code": "+853",
+      "country_image": "flag_macao"
+    },
+    {
+      "country_name": "Macedonia",
+      "country_code": "MK",
+      "country_dialing_code": "+389",
+      "country_image": "flag_macedonia"
+    },
+    {
+      "country_name": "Madagascar",
+      "country_code": "MG",
+      "country_dialing_code": "+261",
+      "country_image": "flag_madagascar"
+    },
+    {
+      "country_name": "Malawi",
+      "country_code": "MW",
+      "country_dialing_code": "+265",
+      "country_image": "flag_malawi"
+    },
+    {
+      "country_name": "Malaysia",
+      "country_code": "MY",
+      "country_dialing_code": "+60",
+      "country_image": "flag_malaysia"
+    },
+    {
+      "country_name": "Maldives",
+      "country_code": "MV",
+      "country_dialing_code": "+960",
+      "country_image": "flag_maldives"
+    },
+    {
+      "country_name": "Mali",
+      "country_code": "ML",
+      "country_dialing_code": "+223",
+      "country_image": "flag_mali"
+    },
+    {
+      "country_name": "Malta",
+      "country_code": "MT",
+      "country_dialing_code": "+356",
+      "country_image": "flag_malta"
+    },
+    {
+      "country_name": "Marshall Islands",
+      "country_code": "MH",
+      "country_dialing_code": "+692",
+      "country_image": "flag_marshall_islands"
+    },
+    {
+      "country_name": "Martinique",
+      "country_code": "MQ",
+      "country_dialing_code": "+596",
+      "country_image": "flag_martinique"
+    },
+    {
+      "country_name": "Mauritania",
+      "country_code": "MR",
+      "country_dialing_code": "+222",
+      "country_image": "flag_mauritania"
+    },
+    {
+      "country_name": "Mauritius",
+      "country_code": "MU",
+      "country_dialing_code": "+230",
+      "country_image": "flag_mauritius"
+    },
+    {
+      "country_name": "Mayotte (Territorial Collectivity of Mayotte)",
+      "country_code": "YT",
+      "country_dialing_code": "+269"
+    },
+    {
+      "country_name": "Mexico",
+      "country_code": "MX",
+      "country_dialing_code": "+52",
+      "country_image": "flag_mexico"
+    },
+    {
+      "country_name": "Micronesia",
+      "country_code": "FM",
+      "country_dialing_code": "+691",
+      "country_image": "flag_micronesia"
+    },
+    {
+      "country_name": "Moldova, RepucountryImagelic of",
+      "country_code": "MD",
+      "country_dialing_code": "+373",
+      "country_image": "flag_moldova"
+    },
+    {
+      "country_name": "Monaco",
+      "country_code": "MC",
+      "country_dialing_code": "+377",
+      "country_image": "flag_monaco"
+    },
+    {
+      "country_name": "Mongolia",
+      "country_code": "MN",
+      "country_dialing_code": "+976",
+      "country_image": "flag_mongolia"
+    },
+    {
+      "country_name": "Montserrat",
+      "country_code": "MS",
+      "country_dialing_code": "+1664",
+      "country_image": "flag_montserrat"
+    },
+    {
+      "country_name": "Morocco",
+      "country_code": "MA",
+      "country_dialing_code": "+212",
+      "country_image": "flag_morocco"
+    },
+    {
+      "country_name": "MozamcountryImageique",
+      "country_code": "MZ",
+      "country_dialing_code": "+258",
+      "country_image": "flag_mozambique"
+    },
+    {
+      "country_name": "Myanmar",
+      "country_code": "MM",
+      "country_dialing_code": "+95",
+      "country_image": "flag_myanmar"
+    },
+    {
+      "country_name": "Namibia",
+      "country_code": "NA",
+      "country_dialing_code": "+264",
+      "country_image": "flag_namibia"
+    },
+    {
+      "country_name": "Nauru",
+      "country_code": "NR",
+      "country_dialing_code": "+674",
+      "country_image": "flag_nauru"
+    },
+    {
+      "country_name": "Nepal",
+      "country_code": "NP",
+      "country_dialing_code": "+977",
+      "country_image": "flag_nepal"
+    },
+    {
+      "country_name": "Netherlands",
+      "country_code": "NL",
+      "country_dialing_code": "+31",
+      "country_image": "flag_netherlands"
+    },
+    {
+      "country_name": "Netherlands Antilles",
+      "country_code": "AN",
+      "country_dialing_code": "+599",
+      "country_image": "flag_netherlands_antilles"
+    },
+    {
+      "country_name": "New Caledonia",
+      "country_code": "NC",
+      "country_dialing_code": "+687",
+      "country_image": "flag_new_caledonia"
+    },
+    {
+      "country_name": "New Zealand",
+      "country_code": "NZ",
+      "country_dialing_code": "+64",
+      "country_image": "flag_new_zealand"
+    },
+    {
+      "country_name": "Nicaragua",
+      "country_code": "NI",
+      "country_dialing_code": "+505",
+      "country_image": "flag_nicaragua"
+    },
+    {
+      "country_name": "Niger",
+      "country_code": "NE",
+      "country_dialing_code": "+227",
+      "country_image": "flag_niger"
+    },
+    {
+      "country_name": "Nigeria",
+      "country_code": "NG",
+      "country_dialing_code": "+234",
+      "country_image": "flag_nigeria"
+    },
+    {
+      "country_name": "Niue",
+      "country_code": "NU",
+      "country_dialing_code": "+683",
+      "country_image": "flag_niue"
+    },
+    {
+      "country_name": "Norfolk Island",
+      "country_code": "NF",
+      "country_dialing_code": "+672",
+      "country_image": "flag_norfolk_island"
+    },
+    {
+      "country_name": "Northern Mariana Islands",
+      "country_code": "MP",
+      "country_dialing_code": "+1-670",
+      "country_image": "flag_northern_mariana_islands"
+    },
+    {
+      "country_name": "Norway",
+      "country_code": "NO",
+      "country_dialing_code": "+47",
+      "country_image": "flag_norway"
+    },
+    {
+      "country_name": "Oman",
+      "country_code": "OM",
+      "country_dialing_code": "+968",
+      "country_image": "flag_oman"
+    },
+    {
+      "country_name": "Pakistan",
+      "country_code": "PK",
+      "country_dialing_code": "+92",
+      "country_image": "flag_pakistan"
+    },
+    {
+      "country_name": "Palau",
+      "country_code": "PW",
+      "country_dialing_code": "+680",
+      "country_image": "flag_palau"
+    },
+    {
+      "country_name": "Palestinian State (Proposed)",
+      "country_code": "PS",
+      "country_dialing_code": "+970",
+      "country_image": "flag_palestian_territory"
+    },
+    {
+      "country_name": "Panama",
+      "country_code": "PA",
+      "country_dialing_code": "+507",
+      "country_image": "flag_panama"
+    },
+    {
+      "country_name": "Papua New Guinea",
+      "country_code": "PG",
+      "country_dialing_code": "+675",
+      "country_image": "flag_papua_new_guinea"
+    },
+    {
+      "country_name": "Paraguay",
+      "country_code": "PY",
+      "country_dialing_code": "+595",
+      "country_image": "flag_paraguay"
+    },
+    {
+      "country_name": "Peru",
+      "country_code": "PE",
+      "country_dialing_code": "+51",
+      "country_image": "flag_peru"
+    },
+    {
+      "country_name": "Philippines",
+      "country_code": "PH",
+      "country_dialing_code": "+63",
+      "country_image": "flag_philippines"
+    },
+    {
+      "country_name": "Poland",
+      "country_code": "PL",
+      "country_dialing_code": "+48",
+      "country_image": "flag_poland"
+    },
+    {
+      "country_name": "Portugal",
+      "country_code": "PT",
+      "country_dialing_code": "+351",
+      "country_image": "flag_portugal"
+    },
+    {
+      "country_name": "Puerto Rico",
+      "country_code": "PR",
+      "country_dialing_code": "+1787",
+      "country_image": "flag_puerto_rico"
+    },
+    {
+      "country_name": "Qatar",
+      "country_code": "QA",
+      "country_dialing_code": "+974",
+      "country_image": "flag_qatar"
+    },
+    {
+      "country_name": "Romania",
+      "country_code": "RO",
+      "country_dialing_code": "+40",
+      "country_image": "flag_romania"
+    },
+    {
+      "country_name": "Rwanda",
+      "country_code": "RW",
+      "country_dialing_code": "+250",
+      "country_image": "flag_rwanda"
+    },
+    {
+      "country_name": "Saint Helena",
+      "country_code": "SH",
+      "country_dialing_code": "+290",
+      "country_image": "flag_saint_barthelemy"
+    },
+    {
+      "country_name": "Saint Kitts and Nevis",
+      "country_code": "KN",
+      "country_dialing_code": "+1-869",
+      "country_image": "flag_saint_kitts_and_nevis"
+    },
+    {
+      "country_name": "Saint Lucia",
+      "country_code": "LC",
+      "country_dialing_code": "+1-758",
+      "country_image": "flag_saint_lucia"
+    },
+    {
+      "country_name": "Saint Pierre and Miquelon",
+      "country_code": "PM",
+      "country_dialing_code": "+508",
+      "country_image": "flag_saint_pierre"
+    },
+    {
+      "country_name": "Saint Vincent and the Grenadines",
+      "country_code": "VC",
+      "country_dialing_code": "+1-784",
+      "country_image": "flag_saint_vicent_and_the_grenadines"
+    },
+    {
+      "country_name": "Samoa",
+      "country_code": "WS",
+      "country_dialing_code": "+685",
+      "country_image": "flag_samoa"
+    },
+    {
+      "country_name": "San Marino",
+      "country_code": "SM",
+      "country_dialing_code": "+378",
+      "country_image": "flag_san_marino"
+    },
+    {
+      "country_name": "Sao Tome and Principe",
+      "country_code": "ST",
+      "country_dialing_code": "+239",
+      "country_image": "flag_sao_tome_and_principe"
+    },
+    {
+      "country_name": "Saudi Arabia",
+      "country_code": "SA",
+      "country_dialing_code": "+966",
+      "country_image": "flag_saudi_arabia"
+    },
+    {
+      "country_name": "Senegal",
+      "country_code": "SN",
+      "country_dialing_code": "+221",
+      "country_image": "flag_senegal"
+    },
+    {
+      "country_name": "Seychelles",
+      "country_code": "SC",
+      "country_dialing_code": "+248",
+      "country_image": "flag_seychelles"
+    },
+    {
+      "country_name": "Sierra Leone",
+      "country_code": "SL",
+      "country_dialing_code": "+232",
+      "country_image": "flag_sierra_leone"
+    },
+    {
+      "country_name": "Singapore",
+      "country_code": "SG",
+      "country_dialing_code": "+65",
+      "country_image": "flag_singapore"
+    },
+    {
+      "country_name": "Slovakia",
+      "country_code": "SK",
+      "country_dialing_code": "+421",
+      "country_image": "flag_slovakia"
+    },
+    {
+      "country_name": "Slovenia",
+      "country_code": "SI",
+      "country_dialing_code": "+386",
+      "country_image": "flag_slovenia"
+    },
+    {
+      "country_name": "Solomon Islands",
+      "country_code": "SB",
+      "country_dialing_code": "+677",
+      "country_image": "flag_soloman_islands"
+    },
+    {
+      "country_name": "Somalia",
+      "country_code": "SO",
+      "country_dialing_code": "+252",
+      "country_image": "flag_somalia"
+    },
+    {
+      "country_name": "South Africa",
+      "country_code": "ZA",
+      "country_dialing_code": "+27",
+      "country_image": "flag_south_africa"
+    },
+    {
+      "country_name": "Spain",
+      "country_code": "ES",
+      "country_dialing_code": "+34",
+      "country_image": "flag_spain"
+    },
+    {
+      "country_name": "Sri Lanka",
+      "country_code": "LK",
+      "country_dialing_code": "+94",
+      "country_image": "flag_sri_lanka"
+    },
+    {
+      "country_name": "Sudan",
+      "country_code": "SD",
+      "country_dialing_code": "+249",
+      "country_image": "flag_sudan"
+    },
+    {
+      "country_name": "Suriname",
+      "country_code": "SR",
+      "country_dialing_code": "+597",
+      "country_image": "flag_suriname"
+    },
+    {
+      "country_name": "Swaziland",
+      "country_code": "SZ",
+      "country_dialing_code": "+268",
+      "country_image": "flag_swaziland"
+    },
+    {
+      "country_name": "Sweden",
+      "country_code": "SE",
+      "country_dialing_code": "+46",
+      "country_image": "flag_sweden"
+    },
+    {
+      "country_name": "Switzerland",
+      "country_code": "CH",
+      "country_dialing_code": "+41",
+      "country_image": "flag_switzerland"
+    },
+    {
+      "country_name": "Syria",
+      "country_code": "SY",
+      "country_dialing_code": "+963",
+      "country_image": "flag_syria"
+    },
+    {
+      "country_name": "Taiwan",
+      "country_code": "TW",
+      "country_dialing_code": "+886",
+      "country_image": "flag_taiwan"
+    },
+    {
+      "country_name": "Tajikistan",
+      "country_code": "TJ",
+      "country_dialing_code": "+992",
+      "country_image": "flag_tajikistan"
+    },
+    {
+      "country_name": "Tanzania",
+      "country_code": "TZ",
+      "country_dialing_code": "+255",
+      "country_image": "flag_tanzania"
+    },
+    {
+      "country_name": "Thailand",
+      "country_code": "TH",
+      "country_dialing_code": "+66",
+      "country_image": "flag_thailand"
+    },
+    {
+      "country_name": "Tokelau",
+      "country_code": "TK",
+      "country_dialing_code": "+690",
+      "country_image": "flag_tokelau"
+    },
+    {
+      "country_name": "Tonga",
+      "country_code": "TO",
+      "country_dialing_code": "+676",
+      "country_image": "flag_tonga"
+    },
+    {
+      "country_name": "Trinidad and Tobago",
+      "country_code": "TT",
+      "country_dialing_code": "+1-868",
+      "country_image": "flag_trinidad_and_tobago"
+    },
+    {
+      "country_name": "Tunisia",
+      "country_code": "TN",
+      "country_dialing_code": "+216",
+      "country_image": "flag_tunisia"
+    },
+    {
+      "country_name": "Turkey",
+      "country_code": "TR",
+      "country_dialing_code": "+90",
+      "country_image": "flag_turkey"
+    },
+    {
+      "country_name": "Turkmenistan",
+      "country_code": "TM",
+      "country_dialing_code": "+993",
+      "country_image": "flag_turkmenistan"
+    },
+    {
+      "country_name": "Turks and Caicos Islands",
+      "country_code": "TC",
+      "country_dialing_code": "+1649",
+      "country_image": "flag_turks_and_caicos_islands"
+    },
+    {
+      "country_name": "Tuvalu",
+      "country_code": "TV",
+      "country_dialing_code": "+688",
+      "country_image": "flag_tuvalu"
+    },
+    {
+      "country_name": "Uganda",
+      "country_code": "UG",
+      "country_dialing_code": "+256",
+      "country_image": "flag_uganda"
+    },
+    {
+      "country_name": "Ukraine",
+      "country_code": "UA",
+      "country_dialing_code": "+380",
+      "country_image": "flag_ukraine"
+    },
+    {
+      "country_name": "UAE",
+      "country_code": "AE",
+      "country_dialing_code": "+971",
+      "country_image": "flag_uae"
+    },
+    {
+      "country_name": "United Kingdom",
+      "country_code": "GcountryImage",
+      "country_dialing_code": "+44",
+      "country_image": "flag_united_kingdom"
+    },
+    {
+      "country_name": "United States",
+      "country_code": "US",
+      "country_dialing_code": "+1",
+      "country_image": "flag_united_states_of_america"
+    },
+    {
+      "country_name": "Uruguay",
+      "country_code": "UY",
+      "country_dialing_code": "+598",
+      "country_image": "flag_uruguay"
+    },
+    {
+      "country_name": "flag_uzbekistan",
+      "country_code": "UZ",
+      "country_dialing_code": "+998",
+      "country_image": "flag_uzbekistan"
+    },
+    {
+      "country_name": "Vanuatu",
+      "country_code": "VU",
+      "country_dialing_code": "+678",
+      "country_image": "flag_vanuatu"
+    },
+    {
+      "country_name": "Vatican City",
+      "country_code": "VA",
+      "country_dialing_code": "+418",
+      "country_image": "flag_vatican_city"
+    },
+    {
+      "country_name": "Venezuela",
+      "country_code": "VE",
+      "country_dialing_code": "+58",
+      "country_image": "flag_venezuela"
+    },
+    {
+      "country_name": "Vietnam",
+      "country_code": "VN",
+      "country_dialing_code": "+84",
+      "country_image": "flag_vietnam"
+    },
+    {
+      "country_name": "Wallis and Futuna Islands",
+      "country_code": "WF",
+      "country_dialing_code": "+681"
+    },
+    {
+      "country_name": "Yemen",
+      "country_code": "YE",
+      "country_dialing_code": "+967",
+      "country_image": "flag_yemen"
+    },
+    {
+      "country_name": "Zambia",
+      "country_code": "ZM",
+      "country_dialing_code": "+260",
+      "country_image": "flag_zambia"
+    },
+    {
+      "country_name": "Zimbabwe",
+      "country_code": "ZW",
+      "country_dialing_code": "+263",
+      "country_image": "flag_zimbabwe"
+    }
+  ]
+}

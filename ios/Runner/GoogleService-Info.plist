@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1049631528904-j5jkp6rqlfaauqef12mgmipisuvk9i6g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1049631528904-j5jkp6rqlfaauqef12mgmipisuvk9i6g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPWvdKrbOYQRrLfgAEOuXp8Lrp7BGzJdI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1049631528904</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaadistand.app</string>
+	<key>PROJECT_ID</key>
+	<string>gaddistand</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gaddistand.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1049631528904:ios:a934c8f8711f0f163752fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://gaddistand.firebaseio.com</string>
+</dict>
+</plist>
